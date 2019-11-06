@@ -1,0 +1,8 @@
+1. heroku local web {Jalanin node app di local lewat heroku}
+2. add gitignore
+3. heroku login
+4. heroku create {exaple}
+5. heroku open
+6. git push heroku master
+	##We want to be sure that our app is running. Type the following to get confirmation:
+7. heroku ps:scale web=1
